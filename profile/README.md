@@ -18,19 +18,6 @@ IngotADP decouples foundational cloud primitives from tenant application logic u
 
 </div>
 
----
-
-### Key Capabilities
-
-<div align="justify">
-
-* **Zero-Trust Credentialing:** Completely eliminates long-lived static cloud keys in CI runners via short-lived OIDC tokens.   
-* **Drift Elimination:** Shared infrastructure baselines and policies are defined once at the hub and consumed declaratively by application spokes.   
-* **Minimal Developer Friction:** Polyglot application services register via lightweight YAML manifests without having to maintain boilerplate IaC or container build scripts.   
-* **Empirically Evaluated:** Developed as part of an MSc Computer Science dissertation project at Keele University, quantitatively evaluating delivery lead times, configuration reuse, and automated compliance efficacy.   
-
-</div>
-
 ### Licence
 
 <div align="justify">
