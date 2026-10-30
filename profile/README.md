@@ -1,4 +1,4 @@
-> An open-source, declarative application delivery platform designed to resolve the fundamental tension in modern cloud delivery: balancing autonomous developer release velocity with strict, automated security governance.   
+> **An open-source, declarative application delivery platform designed to resolve the fundamental tension in modern cloud delivery: balancing autonomous developer release velocity with strict, automated security governance.**   
 
 ### Architecture
 
