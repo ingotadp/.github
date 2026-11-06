@@ -1,3 +1,13 @@
+<a href="https://github.com/ingotadp/">
+    <img
+        src="/assets/banners/main-banner.png"
+        alt="A Modern, Highly Modular Hub-and-Spoke Application Delivery Platform (ADP)"
+        width="1100"
+        height="250"
+        loading="lazy"
+    />
+</a>
+
 <div align="justify">
 
 > An open-source, declarative application delivery platform designed to resolve the fundamental tension in modern cloud delivery: balancing autonomous developer release velocity with strict, automated security governance.   
